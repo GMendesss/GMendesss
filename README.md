@@ -1,8 +1,8 @@
 ### Oiiiiiiii, Sou o Gabriel Mendes👋
 
 - 🔭 Estou em busca de oportunidades fullstack!!
-- 🌱 Curso Análise e Desenvolvimento de Sistema ❤
-- ⚡ Gosto muito de arte...
+- 🌱 Analista e Desenvolvedor de Sistemas | Técnico em Informática ❤
+- ⚡ Rookie...
 
 <div>
   <a href="https://github.com/GMendesss">
